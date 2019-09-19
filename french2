@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid white;
+  padding: 8px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: black;
+}
+p {
+  text-indent: 0px;
+  text-align: justify;
+  letter-spacing: 1px;
+	color: white;
+}
+a {
+  text-decoration: none;
+  color: navy;
+}
+</style>
+</head>
+<body>
+
+<div>
+  <h1>French 1</h1>
+  <p>Welcome to French 1!</p>
+</div>
+
+	<body style=background:#0086b3>
+	  
+	<head>
+	<title>French 2</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+		  
+	<h2>Unit 1</h1> 
+	<p>
+	Overview of unit  
+	</p>
+	  
+	<h2>Coursework & Assignments</h2>
+	
+	<p>
+	Cycle 3
+	</p>
+			
+	<ul>
+	<li>Jour 1: Drop </li>
+	<li>Jour 2: </li>
+	<li>Jour 3: </li>
+	<li>Jour 4: </li>
+	<li>Jour 5: Drop </li>
+	<li>Jour 6: </li>
+	<li>Jour 7: </li>
+	<li>Jour 8: </li>
+	</ul>
+	
+	
+	<h2>Handy References</h2>
+	<ul>
+	  <li><a href="https://www.wordreference.com/">WordReference.com</a></li>
+	  <li><a href="https://www.radiofrance.fr/">Radio France</a></li>
+	  <li><a href="https://www.france24.com/fr/">France 24</a></li>
+	</ul>
+	
+<img src="cafechatnoir.jpg"Café>
+		
+</body>
+</html>
